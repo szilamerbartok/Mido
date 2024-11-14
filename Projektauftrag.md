@@ -1,7 +1,8 @@
 # Projektauftrag
 
 ## Bezeichnung: 
-Online-shop
+Lorem Ipsum Online-shop
+"SYPPRE_Zwangsbeglückung"
 
 ## Auftraggeber:
 Herr David Klewein
@@ -41,8 +42,8 @@ Finanzielle Mittel: 0€
 Projektmitarbeiter brechen die Schule ab
 
 ## Projektorganisation:
-Projektleiter: Mido (selbsternannt) <br>
-Projektteam: Szilamér, Hamid, Arwin, (Lisa)
+Projektleiter: Mido Zieser-Zerenko (selbsternannt) <br>
+Projektteam: Szilamér Bartók, Hamid Faru, Arwin Mohibe, (Lisa Seeberger)
 
 ## Abschluss des Projektauftrags:
 
