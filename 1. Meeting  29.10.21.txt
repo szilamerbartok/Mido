@@ -1,0 +1,38 @@
+1. Meeting  29.10.21  
+Protokoll: Mido  
+Teamsabgeordneter: Szilamér  
+
+
+Besprechen: Organisation in Teams, Benachrichtigungen  
+Nur an online freigegebenen Dateien arbeiten und nicht an lokal gespeicherten  
+
+- Hamid, Wish: 		niedrige Preise, viele Produkte  
+  			Foto, Bewertung, Preis  
+  			Konsumentenpsychologie → Rabatte  
+  			Darkmode/Lightmode  
+
+- Szilamér, Hugo Boss: 	Foto/Homepage – schlichter Einstieg  
+  			Reiter schlecht lesbar  
+  			tote Flächen, Icons – Kategorien  
+  			1920x1080 Auflösung – Full HD 
+			→ „Full responsive?“ dass es auf allen Endgeräte richtig angezeigt wird  
+    			→ tatsächliche Auflösung erkennen und deklarieren  
+
+			Vertrauenswürdiger: 	Verlinkungen, Appstore, Facebook  
+			Vergleichsmaßstab (technische Daten), Impressum  
+			Vorschläge zu ausgewählten Produkten  
+
+Mido:  (PowerPoint)
+
+Lisa, Shein:  
+			Dead space – automatische Slider → Bewegung Aufmerksamkeit  
+  			Kundenbindung → Mitgliedschaft zahlungspflichtig, Versand billiger  
+				→ Belohnungssystem, Instant-Gratification 
+  			Kunden mit Respekt behandeln → nicht für dumm verkaufen (tricksen) 
+  			Menü → Maus-over nicht aufklappen → nur durch Klick, gegliederte Navigation  
+			Größen- & Elastizitätstabellen: → reduzierte Rücksendungsquote  
+				→Modellmaße + Kundenfeedback für Genauigkeit der Angaben
+			Qualitätsmanagement ISO9100 → Pop-up Fenster für Feedback nach Kauf/Rückgabe
+			Gamification: Leveling/Rewards  
+			Warenkorb teil des Bestellvorgangs → Größe und Stückzahl noch anpassbar, Vorschläge
+			Bestellverlauf + Suchfunktion mit Vorschaubildern  
